@@ -1,7 +1,7 @@
 version: '3.3'
 services:
    picframe:
-     image: satssehgal/pictureframe:latest
+     image: demuthrc/pictureframe:latest
      ports:
       - "5000:5000"
      volumes:
